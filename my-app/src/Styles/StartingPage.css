@@ -1,0 +1,22 @@
+.starting-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+  }
+  
+  .room-button {
+    background-color: #2196f3;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .room-button:hover {
+    background-color: #1976d2;
+  }
+  

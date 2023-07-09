@@ -1,0 +1,58 @@
+/* Lobby.css */
+
+.lobby {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .lobby h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .lobby .form-container {
+    margin-bottom: 20px;
+  }
+  
+  .lobby .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .lobby .button-container button {
+    flex-grow: 1;
+    margin: 0 5px;
+  }
+  
+  .lobby .room-info {
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .lobby .back-button {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .lobby .chat-container {
+    margin-bottom: 20px;
+  }
+  
+  .lobby .empty-container {
+    margin-bottom: 20px;
+  }
+  
+  .lobby .empty-container p {
+    text-align: center;
+    color: #888888;
+  }
+  
+  
